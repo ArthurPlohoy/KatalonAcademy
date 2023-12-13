@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login_with_wrong_cred</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f0d207bd-903c-430d-b59b-694ced2fabad</testCaseGuid>
+</TestCaseEntity>
